@@ -1,6 +1,5 @@
 # sqlcipher_for_android
-Bourne shellscript that builds OpenSSL and SQLCipher for Android. Sets up android development environment if necessary.
-If you are building a C project for Android that utilizes SQLCipher, this is for you.
+Bourne shellscript that builds OpenSSL and SQLCipher for Android. If you are building a C project for Android that utilizes SQLCipher, this is for you. Sets up android development environment if necessary.
 
 Requirements: linux build system (OSX untested), internet access, wget, git, unzip
 
